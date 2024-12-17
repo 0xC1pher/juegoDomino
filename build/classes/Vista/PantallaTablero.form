@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="Panel_Tablero" max="32767" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Component id="jPanel4" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="6" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano1" min="-2" pref="57" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano2" min="-2" pref="57" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano3" min="-2" pref="57" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano4" min="-2" pref="55" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano5" min="-2" pref="58" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano6" min="-2" pref="57" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_fichajugadorhumano7" min="-2" pref="60" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="57" max="-2" attributes="0"/>
+                      <Component id="jLabel5" min="-2" pref="160" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="lb_nombre1" min="-2" pref="153" max="-2" attributes="0"/>
+                      <EmptySpace max="32767" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jLabel3" max="32767" attributes="0"/>
+                              <EmptySpace min="-2" pref="145" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="0" attributes="0">
+                              <Component id="jLabel1" min="-2" pref="151" max="-2" attributes="0"/>
+                              <EmptySpace max="32767" attributes="0"/>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                              <Component id="jLabel2" min="-2" pref="239" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <Component id="btn_ficha1jugador2" min="-2" pref="60" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                      <Component id="btn_ficha2jugador2" min="-2" pref="62" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_ficha3jugador2" min="-2" pref="65" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_ficha4jugador2" min="-2" pref="64" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_ficha5jugador2" min="-2" pref="65" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_ficha6jugador2" min="-2" pref="63" max="-2" attributes="0"/>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Component id="btn_ficha7jugador2" min="-2" pref="65" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                      <Component id="lb_jugador2" min="-2" pref="150" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="160" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" attributes="0">
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <EmptySpace max="-2" attributes="0"/>
+                                  <Component id="jLabel1" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                                  <Component id="jLabel2" min="-2" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="29" max="-2" attributes="0"/>
+                                  <Component id="jLabel3" min="-2" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace min="-2" pref="19" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                                      <Component id="btn_ficha6jugador2" alignment="1" pref="90" max="32767" attributes="0"/>
+                                      <Component id="btn_ficha5jugador2" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="btn_ficha4jugador2" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="btn_ficha3jugador2" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="btn_ficha2jugador2" alignment="1" max="32767" attributes="0"/>
+                                      <Component id="btn_ficha1jugador2" alignment="1" max="32767" attributes="0"/>
+                                  </Group>
+                              </Group>
+                          </Group>
+                          <Group type="102" alignment="1" attributes="0">
+                              <EmptySpace max="-2" attributes="0"/>
+                              <Component id="btn_ficha7jugador2" min="-2" pref="90" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                      <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="lb_jugador2" min="-2" max="-2" attributes="0"/>
+                      <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                  <Component id="jPanel4" max="32767" attributes="0"/>
+                  <Component id="Panel_Tablero" max="32767" attributes="0"/>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="3" attributes="0">
+                          <Component id="jLabel5" alignment="3" min="-2" max="-2" attributes="0"/>
+                          <Component id="lb_nombre1" alignment="3" min="-2" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="btn_fichajugadorhumano7" min="-2" pref="90" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="btn_fichajugadorhumano3" alignment="0" pref="90" max="32767" attributes="0"/>
+                              <Component id="btn_fichajugadorhumano1" alignment="0" max="32767" attributes="0"/>
+                              <Component id="btn_fichajugadorhumano2" alignment="0" max="32767" attributes="0"/>
+                              <Component id="btn_fichajugadorhumano5" alignment="0" max="32767" attributes="0"/>
+                              <Component id="btn_fichajugadorhumano4" alignment="0" max="32767" attributes="0"/>
+                              <Component id="btn_fichajugadorhumano6" alignment="0" max="32767" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace pref="49" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JPanel" name="Panel_Tablero">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="ff" green="ff" red="ff" type="rgb"/>
+        </Property>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder bottom="2" left="2" right="2" top="2">
+              <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
+            </MatteColorBorder>
+          </Border>
+        </Property>
+      </Properties>
+      <Events>
+        <EventHandler event="mouseClicked" listener="java.awt.event.MouseListener" parameters="java.awt.event.MouseEvent" handler="Panel_TableroMouseClicked"/>
+      </Events>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout">
+        <Property name="useNullLayout" type="boolean" value="true"/>
+      </Layout>
+    </Container>
+    <Component class="javax.swing.JLabel" name="jLabel1">
+      <Properties>
+        <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+          <Color blue="0" green="0" red="0" type="rgb"/>
+        </Property>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Showcard Gothic" size="18" style="2"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Domino Latina"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel3">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Showcard Gothic" size="14" style="3"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Container class="javax.swing.JPanel" name="jPanel4">
+      <Properties>
+        <Property name="border" type="javax.swing.border.Border" editor="org.netbeans.modules.form.editors2.BorderEditor">
+          <Border info="org.netbeans.modules.form.compat2.border.MatteColorBorderInfo">
+            <MatteColorBorder bottom="2" left="2" right="2" top="2">
+              <Color PropertyName="color" blue="0" green="0" red="ff" type="rgb"/>
+            </MatteColorBorder>
+          </Border>
+        </Property>
+      </Properties>
+
+      <Layout>
+        <DimensionLayout dim="0">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lb_fichas" max="32767" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                              <Component id="btn_guardarpartida" max="32767" attributes="0"/>
+                              <Component id="jLabel4" alignment="1" max="32767" attributes="0"/>
+                              <Component id="btn_cambiarturno" alignment="0" max="32767" attributes="0"/>
+                              <Component id="btntomar" alignment="0" max="32767" attributes="0"/>
+                              <Component id="btn_salirjuego" max="32767" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="0" pref="15" max="32767" attributes="0"/>
+                      </Group>
+                      <Component id="lb_turnoactual" alignment="0" max="32767" attributes="0"/>
+                  </Group>
+                  <EmptySpace max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+        <DimensionLayout dim="1">
+          <Group type="103" groupAlignment="0" attributes="0">
+              <Group type="102" alignment="0" attributes="0">
+                  <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                  <Component id="jLabel4" min="-2" pref="38" max="-2" attributes="0"/>
+                  <EmptySpace max="-2" attributes="0"/>
+                  <Component id="lb_fichas" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="26" max="-2" attributes="0"/>
+                  <Component id="btntomar" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="51" max="-2" attributes="0"/>
+                  <Component id="btn_guardarpartida" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="49" max="-2" attributes="0"/>
+                  <Component id="btn_cambiarturno" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="btn_salirjuego" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Component id="lb_turnoactual" min="-2" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="42" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+        </DimensionLayout>
+      </Layout>
+      <SubComponents>
+        <Component class="javax.swing.JLabel" name="jLabel4">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="3"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Piezas Disponibles "/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_cambiarturno">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Pasar turno"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_cambiarturnoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btntomar">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Tomar Pieza"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btntomarActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_guardarpartida">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Guardar Partida"/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_guardarpartidaActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JButton" name="btn_salirjuego">
+          <Properties>
+            <Property name="background" type="java.awt.Color" editor="org.netbeans.beaninfo.editors.ColorEditor">
+              <Color blue="0" green="0" red="ff" type="rgb"/>
+            </Property>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="0"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="Salir del Juego "/>
+          </Properties>
+          <Events>
+            <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_salirjuegoActionPerformed"/>
+          </Events>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lb_fichas">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="3"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="."/>
+          </Properties>
+        </Component>
+        <Component class="javax.swing.JLabel" name="lb_turnoactual">
+          <Properties>
+            <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+              <Font name="Showcard Gothic" size="14" style="3"/>
+            </Property>
+            <Property name="text" type="java.lang.String" value="."/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano1">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano2">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano3">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano4">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano5">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano6">
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="btn_fichajugadorhumano6ActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Showcard Gothic" size="14" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Fichas Jugador  2  o M&#xe1;quina"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha1jugador2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="jLabel5">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Showcard Gothic" size="14" style="3"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Fichas Jugador  : 1"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha2jugador2">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha3jugador2">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha4jugador2">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha5jugador2">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha6jugador2">
+    </Component>
+    <Component class="javax.swing.JLabel" name="lb_jugador2">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Showcard Gothic" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JLabel" name="lb_nombre1">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="Showcard Gothic" size="14" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="."/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_fichajugadorhumano7">
+    </Component>
+    <Component class="javax.swing.JButton" name="btn_ficha7jugador2">
+    </Component>
+  </SubComponents>
+</Form>

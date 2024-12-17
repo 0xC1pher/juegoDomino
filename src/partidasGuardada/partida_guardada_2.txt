@@ -1,0 +1,20 @@
+Jugador 1: vv
+Jugador 2: Computadora
+Turno de: jugador1
+
+Fichas jugadas en el tablero:
+Ficha: /fichas/Ficha_1_1.png | Posición: 0 | Arriba: 1 | Abajo: 1 | Rotación: 0
+
+Fichas restantes del Jugador 1:
+/fichas/Ficha_0_0.png
+/fichas/Ficha_4_0.png
+/fichas/Ficha_1_4.png
+/fichas/Ficha_2_4.png
+/fichas/Ficha_3_0.png
+
+Fichas restantes del Jugador 2:
+/fichas/Ficha_3_5.png
+/fichas/Ficha_4_5.png
+/fichas/Ficha_4_6.png
+/fichas/Ficha_6_0.png
+/fichas/Ficha_2_0.png

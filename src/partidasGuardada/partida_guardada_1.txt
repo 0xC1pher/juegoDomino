@@ -1,0 +1,21 @@
+Jugador 1: vv
+Jugador 2: dd
+Turno de: jugador1
+
+Fichas jugadas en el tablero:
+Ficha: /fichas/Ficha_6_6.png | Posición: 0 | Arriba: 6 | Abajo: 6 | Rotación: 0
+Ficha: /fichas/Ficha_2_6.png | Posición: -1 | Arriba: 2 | Abajo: 6 | Rotación: -90
+Ficha: /fichas/Ficha_6_0.png | Posición: 1 | Arriba: 6 | Abajo: 0 | Rotación: -90
+
+Fichas restantes del Jugador 1:
+/fichas/Ficha_1_6.png
+/fichas/Ficha_5_0.png
+/fichas/Ficha_3_3.png
+/fichas/Ficha_1_1.png
+/fichas/Ficha_1_3.png
+
+Fichas restantes del Jugador 2:
+/fichas/Ficha_3_4.png
+/fichas/Ficha_2_5.png
+/fichas/Ficha_2_0.png
+/fichas/Ficha_4_0.png
